@@ -1,7 +1,5 @@
 # SQL-Library-Management-Project
 
-# SQL Database Management & Analysis Project
-
 ## 📌 Project Overview
 
 This project demonstrates how to create, populate, and analyze a relational database using MySQL.
